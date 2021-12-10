@@ -17,6 +17,7 @@
 👤 **Isaí Céspedes Sánchez**
 
 - GitHub: [@Lordkaito](https://github.com/Lordkaito)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/isaicespedes/)
 
 ## Collaborator
 
