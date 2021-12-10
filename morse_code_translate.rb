@@ -34,3 +34,8 @@ def word_morse_code(string)
   # identify words
   string.split(' ').map { |x| translateCharMorseCode(x) }.join('')
 end
+
+def message_morse_code(string)
+  # separate word when find 3 spaces
+  string.split('   ').map { |word| wordMorseCode(word) }.join(' ')
+end
